@@ -1,9 +1,9 @@
 import React, { useState, useContext, createContext, useEffect } from 'react';
 import { 
-  Globe, Server, Wifi, Map, Cpu, Activity, Check, Sun, Moon, Zap, 
-  ArrowRight, Shield, Layers, Clock, Atom, Phone, Mail, MapPin, 
-  Calendar, ChevronRight, Users, Wrench, Package, Briefcase, 
-  Linkedin, Instagram, MessageCircle
+  Globe, Server, Check, Sun, Moon,
+  ArrowRight, Phone, Mail, MapPin, 
+  Calendar, ChevronRight, Users, Wrench, Package,
+  Linkedin, Instagram
 } from 'lucide-react';
 
 // --- THEME CONFIGURATION (VIOLET & YELLOW) ---
